@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(242, 93, 140);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.twofour{
+    font-size: 24px;
+}
+#bb{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#gstrong{
+    background-color: rgb(100, 246, 38);
+    font-weight: bold;
+}
